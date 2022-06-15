@@ -1,0 +1,24 @@
+.header-section {
+    background-color: white;
+    width: 100vw;
+    padding: 35px 30px;
+}
+.wrapper h2 {
+    font: normal 400 36px/1.4 Lato;
+    color: #515357;
+    margin: 17.5px 0;
+    text-transform: none;
+    letter-spacing: 0px;
+    margin-top: 13%;
+}
+
+.categories-item {
+    display: inline-block;
+    margin-right: 10px;
+    color: #808080;
+    /* font-family: 'Lato', sans-serif;
+    font-weight: 700; */
+    /* font-size: 14px; */
+    letter-spacing: 1px;
+    font: normal 700 14.2px/1.4 Lato;
+}

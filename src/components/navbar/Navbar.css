@@ -1,0 +1,25 @@
+.logo-header {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    z-index: 100;
+    overflow: hidden;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+}
+
+.section {
+    margin: 17px 0px;
+    display: block;
+    height: 80px;
+}
+
+.wrapper img {
+    height: 80px;
+}
+
+.wrapper {
+    max-width: 760px;
+    margin: 0 auto;
+}
